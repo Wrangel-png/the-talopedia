@@ -43,7 +43,7 @@ infobox:
 
 The **Impirial Armed Forces** (Zefransk Imperijsk Værn) is the official name for the Impirial military, and have been divided into four branches, with the Special Service Corp being founded circa 1845 by the government as a Royal Guard, but then it was changed into what it is today. The Military has a 2 year mandatory service to the state in the military and they can then extend their service or return to civillian life. The Military has a total of 515,000 active personel and have 1,500,000 reservists to draw from, as the Empire see's no reason to keep a larger force constantly active. But also keeps building a larger stockpile equiptment and doesn't spend as many recources in training large amounts of troops at one time. The Impirial Military also have started to run a program that military schools would be funded by the military for service members that want to serve within the military for longer than the standard 2 years mandatory service, if citizens with to become career military members. Schools would be built and ran by Ex-Military who will educate the citizens for basic roles within each branch and then once the two year mandatory service has completed, they can choose a specialisation, unless the student wished to pick a particular specialisation beforehand. Though the Impirial Military does draw from civillian specialists to also help teach students in basic skills like engeneering before they start working with military hardware.
 
-The Military has lagged behind in modernising the force, while the training has been updated constantly and tactics have evolved, the equiptment has lagged behind, and with the new modernisation progects, the military spending has increased to around 21% of the National GDP to help fund military infastructure and to develop the relavent Military Industrial Complex to fit a modernising nation. The Military also seeks on trade deals to expand it's armaments in case of shortfalls in equiptment but to also help get inspirations on new designs, while funding it's own R&D department to build indipendant designs. The military still retains calvary scouting as well as a few calvary divisions, with innovative tactics due to the changing of warfare since the Great War, they are optimistically waiting to be replaced by mechanised infantry divisions or to be used for purely reconnisance in mountain terrain.
+The Military has lagged behind in modernising the force, while the training has been updated constantly and tactics have evolved, the equiptment has lagged behind, and with the new modernisation progects, the military spending has increased to around 9% of the National GDP to help fund military infastructure and to develop the relavent Military Industrial Complex to fit a modernising nation. The Military also seeks on trade deals to expand it's armaments in case of shortfalls in equiptment but to also help get inspirations on new designs, while funding it's own R&D department to build indipendant designs. The military still retains calvary scouting as well as a few calvary divisions, with innovative tactics due to the changing of warfare since the Great War, they are optimistically waiting to be replaced by mechanised infantry divisions or to be used for purely reconnisance in mountain terrain.
 
 The Military hopes to bring a new age of warfare to the Empire, and are supportive of the Emperor's reforms, as it brings them not only brighter minds for military reaserch and development, but also to help build better infastructure and to help citizens build specialist skills to use in civillian life. As both have been lacking under the previous Emperor and they have been struggling to have as modern a military as they could possibly have. They have also expressed excitment to announce that a particular bear Insignia has been created gy the 22<sup>nd</sup> Artillery Brigade and Private Wojtek is getting along well with the soldiers he is staitioned with.
 
@@ -105,22 +105,22 @@ The Military hopes to bring a new age of warfare to the Empire, and are supporti
 
 ## Ranks
 
-| Rank | Army | Navy | Air Force |
-| --- | --- | --- | --- |
-| O-10 | Lord Commander | Lord Marshal | Lord Admiral |
-| O-9 | Marshal | Marshal of the Air Force | Grand Admiral |
-| O-8 | General | Air Chief Marshal | Admiral |
-| O-7 | Lieutenant General | Air Marshal | Vice Admiral |
-| O-6 | Major General | Air Vice-Marshal | Rear Admiral |
-| O-5 | Brigadier General | Air Commodore | Commodore |
-| O-4 | Colonel | Group Captain | Captain |
-| O-3 | Lieutenant Colonel | Wing Commander | Commander |
-| O-2 | Major | Squadron Leader | Lieutenant Commander |
-| O-1 | Captain | Flight Lieutenant | Lieutenant |
-| E-7 | First Lieutenant | Flying Officer | Sub-Lieutenant |
-| E-6 | Second Lieutenant | Pilot Officer | Ensign |
-| E-5 | Warrant Officer | Flight Warrant Officer | Warrant Officer |
-| E-4 | Sergeant Major | Senior Sergeant | Chief Petty Officer |
-| E-3 | Sergeant | Sergeant | Petty Officer |
-| E-2 | Corporal | Senior Airman | Leading Seaman |
-| E-1 | Private | Airman | Seaman |
+| Rank | Army | Navy | Air Force | SSC |
+| --- | --- | --- | --- | --- |
+| O-10 | Lord Commander | Lord Marshal | Lord Admiral |  |
+| O-9 | Marshal | Marshal of the Air Force | Grand Admiral |  |
+| O-8 | General | Air Chief Marshal | Admiral |  |
+| O-7 | Lieutenant General | Air Marshal | Vice Admiral |  |
+| O-6 | Major General | Air Vice-Marshal | Rear Admiral |  |
+| O-5 | Brigadier General | Air Commodore | Commodore |  |
+| O-4 | Colonel | Group Captain | Captain |  |
+| O-3 | Lieutenant Colonel | Wing Commander | Commander |  |
+| O-2 | Major | Squadron Leader | Lieutenant Commander |  |
+| O-1 | Captain | Flight Lieutenant | Lieutenant |  |
+| E-7 | First Lieutenant | Flying Officer | Sub-Lieutenant | Major General–Lieutenant General |
+| E-6 | Second Lieutenant | Pilot Officer | Ensign | Major–Lieutenant Colonel |
+| E-5 | Warrant Officer | Flight Warrant Officer | Warrant Officer | Captain |
+| E-4 | Sergeant Major | Senior Sergeant | Chief Petty Officer | Lieutenant |
+| E-3 | Sergeant | Sergeant | Petty Officer | Staff Sergeant |
+| E-2 | Corporal | Senior Airman | Leading Seaman | Sergeant |
+| E-1 | Private | Airman | Seaman | Private–Corporal |
