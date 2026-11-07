@@ -18,7 +18,7 @@ groups:
   - label: "Politics"
     rows:
       - items:
-          - "velvetism"
+          - "[[list-of-political-parties-in-alemannia]] • [[velvetism]]"
       - label: "Government"
         items:
           - "administrative-subdivisions"
