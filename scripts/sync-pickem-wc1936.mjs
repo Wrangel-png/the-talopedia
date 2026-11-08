@@ -32,6 +32,7 @@ const draw = JSON.parse(fs.readFileSync(DRAW, 'utf8')).groups;
 const ord = (n) => n + (n % 100 >= 10 && n % 100 <= 20 ? 'th' : { 1: 'st', 2: 'nd', 3: 'rd' }[n % 10] || 'th');
 function finish(t) {
   if (t.host) return 'Hosts';
+  if (t.invited) return 'Invited';
   const conf = t.route.startsWith('Eastern') ? 'East' : 'West';
   return `${conf} ${ord(t.place)}` + (t.playoff ? ` · ${t.playoff.score} ${t.playoff.opp}` : '');
 }
@@ -54,7 +55,7 @@ for (const [g, sides] of Object.entries(draw)) {
     if (s.host) host = s.code;
     teams[s.code] = {
       name: s.name, finish: finish(s), route: s.route,
-      q: s.host ? null : { conf: s.conf[0].toUpperCase(), pos: s.place, W: s.w, D: s.d, L: s.l, GF: s.gf, GA: s.ga, Pts: s.pts },
+      q: s.host || s.invited ? null : { conf: s.conf[0].toUpperCase(), pos: s.place, W: s.w, D: s.d, L: s.l, GF: s.gf, GA: s.ga, Pts: s.pts },
       ...(dark.has(s.code) ? { dark: true } : {}),
       best: s.best, last: s.last,
       squad: t.squad.map((p) => [p.fullName || p.name, p.pos]),

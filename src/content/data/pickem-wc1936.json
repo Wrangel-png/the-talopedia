@@ -23,7 +23,7 @@
    "LVO",
    "NSH",
    "PER",
-   "ANH"
+   "ANT"
   ],
   "E": [
    "NCH",
@@ -1656,110 +1656,100 @@
     ]
    ]
   },
-  "ANH": {
-   "name": "Neuhollmar",
-   "finish": "West 21st · 1-0 ASP",
-   "route": "Western playoff, 1-0 v South Pelagonia",
-   "q": {
-    "conf": "W",
-    "pos": 21,
-    "W": 3,
-    "D": 1,
-    "L": 6,
-    "GF": 12,
-    "GA": 14,
-    "Pts": 10
-   },
-   "dark": true,
-   "best": "Group stage 1934, 1935",
-   "last": "1935 group stage",
+  "ANT": {
+   "name": "Antiqa",
+   "finish": "Invited",
+   "route": "Invited",
+   "q": null,
+   "best": "No finish on record",
+   "last": "Absent in 1935",
    "squad": [
     [
-     "Gareth Tipene",
+     "Qhapaq Huanca",
      "GK"
     ],
     [
-     "Judah Rangitāne",
+     "Tupaq Mamani Kuntur",
      "DEF"
     ],
     [
-     "Kurt Mueller",
+     "Ullanta Cusi",
      "DEF"
     ],
     [
-     "Māui Te Rauparaha",
+     "Pacha Grefa",
      "DEF"
     ],
     [
-     "Rolf Hoffmann",
+     "Amaru Chanka",
      "DEF"
     ],
     [
-     "Hone Wihongi",
+     "Inti Mamani Quri",
      "MID"
     ],
     [
-     "Kurt Te Rangi",
+     "Sinchi Rulqa",
      "MID"
     ],
     [
-     "Albrecht Von Haast",
+     "Kallpa Kajavilka",
      "MID"
     ],
     [
-     "Walther Meyer",
-     "MID"
-    ],
-    [
-     "Eruera Waititi",
+     "Qori Supa",
      "FWD"
     ],
     [
-     "Pita Rata",
+     "Amaru Apaza Huanca",
      "FWD"
     ],
     [
-     "Tobias Schmidt",
+     "Puma Chambi Sulca",
+     "FWD"
+    ],
+    [
+     "Waman Wayna",
      "GK"
     ],
     [
-     "Fraser Te Rangi",
+     "Apu Qispi",
      "DEF"
     ],
     [
-     "Tama Wharehuia",
+     "Puma Quri",
      "DEF"
     ],
     [
-     "Konrad Lindemann",
+     "Tupaq Chambi Qanchaya",
      "DEF"
     ],
     [
-     "Rawiri Paretai",
+     "Inka Waman",
      "DEF"
     ],
     [
-     "Lachlan Ihimaera",
+     "Wayna Sulca",
      "MID"
     ],
     [
-     "Ernst Braunschweig",
+     "Yachay Yupanqi",
      "MID"
     ],
     [
-     "Matthias Becker",
+     "Rumi Sumure",
      "MID"
     ],
     [
-     "Manaia Tūhoe",
-     "MID"
-    ],
-    [
-     "Sigmund Reindl",
+     "Ch'aska Humala",
      "FWD"
     ],
     [
-     "Otene Kereopa",
+     "Pushaq Cuellar",
+     "FWD"
+    ],
+    [
+     "Inti Huaraq",
      "FWD"
     ]
    ]
